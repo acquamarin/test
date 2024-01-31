@@ -1,2 +1,2 @@
 name:STRING,numbers:STRING[],number:LONG
-Adam,"2";"3";"4",3
+Adam,""2";"3";"4"",3
